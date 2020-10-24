@@ -8,5 +8,5 @@
     <root level="INFO">
         <appender-ref ref="STDOUT"/>
     </root>
-    <logger name="com.aw.compcruz" level="INFO"/>
+    <logger name="com.compcruz" level="INFO"/>
 </configuration>
